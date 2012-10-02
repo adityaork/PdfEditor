@@ -1,0 +1,2853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class branch="cse" year="4">
+	<student regno="20084038">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 2</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross> 5</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 2</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross> 5</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084074">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 4</tick>
+				<cross> 2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array vishal || element bad</high_text>
+                                <comment> good answer || rich poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>H.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross> 1</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> link of cn || good one</high_text>
+                                <comment> of binary || stack full</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>A.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 2</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>L.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross> 5</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> link of dere|| element full</high_text>
+                                <comment> right answer || very bad</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>Q.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084059">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 4</tick>
+				<cross> 2</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 1</tick>
+				<cross> 4</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 2</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross> 5</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084050">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 5</tick>
+				<cross> 2</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 8</tick>
+				<cross> 1</cross>
+				<ques_mark> 1</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 9</tick>
+				<cross> 0</cross>
+				<ques_mark> 1</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 9</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 10</tick>
+				<cross> 0</cross>
+				<ques_mark>0</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 10</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084051">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 5</tick>
+				<cross> 5</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 6</tick>
+				<cross> 4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 1</tick>
+				<cross> 8</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084052">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 2</cross>
+				<ques_mark> 4</ques_mark>
+                                <circle> 5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>1</tick>
+				<cross> 8</cross>
+				<ques_mark>4</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 3</tick>
+				<cross>2</cross>
+				<ques_mark>4</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 0</tick>
+				<cross> 8</cross>
+				<ques_mark> 4</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084072">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick> 4</tick>
+				<cross> 5</cross>
+				<ques_mark> 1</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 3</tick>
+				<cross> 6</cross>
+				<ques_mark> 1</ques_mark>
+                                <circle>0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick> 5</tick>
+				<cross> 2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross> 4</cross>
+				<ques_mark> 3</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084053">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 9</tick>
+				<cross> 1</cross>
+				<ques_mark>4</ques_mark>
+                                <circle>3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>9</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 9</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>8</tick>
+				<cross>1</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084054">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084055">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>10</tick>
+				<cross>0</cross>
+				<ques_mark>0</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 0</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross>7</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 3</cross>
+				<ques_mark>4</ques_mark>
+                                <circle> 6</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>2</tick>
+				<cross> 7</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084056">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>7</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>5</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>9</tick>
+				<cross>3</cross>
+				<ques_mark>1</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>2</cross>
+				<ques_mark>6</ques_mark>
+                                <circle> 8</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084061">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>1</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>4</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>7</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084062">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>4</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>9</tick>
+				<cross>1</cross>
+				<ques_mark>0</ques_mark>
+                                <circle>1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>8</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084063">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>6</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>1</cross>
+				<ques_mark>6</ques_mark>
+                                <circle>6</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>9</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084011">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084012">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084013">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084014">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>6</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084015">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084016">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084017">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>2</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084018">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084019">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084020">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084021">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084022">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084023">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>0</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>5</cross>
+				<ques_mark>1</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084031">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>4</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084032">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>1</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross> 5</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>2</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084033">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>6</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084034">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>6</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>5</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>3</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084035">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>4</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>5</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084036">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross>6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 4</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084037">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>0</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084138">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>3</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>5</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084039">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084040">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084137">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>1</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084938">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>8</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084139">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 5</tick>
+				<cross>4</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>2</tick>
+				<cross> 6</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>1</tick>
+				<cross> 7</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084140">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084141">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084142">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084143">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>6</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 2</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>5</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084144">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 3</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 4</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>8</tick>
+				<cross> 2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084145">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross>1</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 5</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 1</tick>
+				<cross>6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084146">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>7</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 4</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084147">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>4</tick>
+				<cross> 2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 7</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084158">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross>4</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>2</tick>
+				<cross>5</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>1</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross>0</cross>
+				<ques_mark> 4</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084260">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross>6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>8</tick>
+				<cross> 2</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross>1</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>4</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084261">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle>2</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross> 2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 2</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084263">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>1</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>7</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 5</tick>
+				<cross>5</cross>
+				<ques_mark>0</ques_mark>
+                                <circle>1</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084264">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>0</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 0</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>10</tick>
+				<cross>3</cross>
+				<ques_mark>0</ques_mark>
+                                <circle>0</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>2</tick>
+				<cross> 6</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084265">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>4</tick>
+				<cross>1</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 6</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>1</tick>
+				<cross> 7</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 3</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>8</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084267">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>3</tick>
+				<cross>6</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 8</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>6</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross> 1</cross>
+				<ques_mark>4</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>5</tick>
+				<cross>1</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084268">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>3</cross>
+				<ques_mark>3</ques_mark>
+                                <circle>1</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 8</tick>
+				<cross>2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks> 6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>6</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>6</tick>
+				<cross> 2</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>6</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+	<student regno="20084269">
+		<subject code="ds">
+			<question ques_no="1">
+				<tick>7</tick>
+				<cross>2</cross>
+				<ques_mark>3</ques_mark>
+                                <circle> 4</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>P.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick> 6</tick>
+				<cross>3</cross>
+				<ques_mark>2</ques_mark>
+                                <circle>4</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>7</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>S.K mehta</checked_by>
+                       	</question>
+                 </subject>
+		<subject code="os">
+			<question ques_no="1">
+				<tick>5</tick>
+				<cross> 1</cross>
+				<ques_mark> 2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> array of || element carry</high_text>
+                                <comment> wrong answer || very poor</comment>
+                                <marks> 5</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>D.K sharma</checked_by>
+                       	</question>
+                       	<question ques_no="2">
+				<tick>3</tick>
+				<cross> 6</cross>
+				<ques_mark>2</ques_mark>
+                                <circle> 3</circle>
+                                <high_text> link of || element array</high_text>
+                                <comment> wrong answer || very good</comment>
+                                <marks>2</marks>
+                                <full_marks>10</full_marks>
+                                <checked_by>J.K mehta</checked_by>
+                       	</question>
+                 </subject>
+	</student>
+</class>
